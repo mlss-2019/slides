@@ -1,10 +1,10 @@
 
 # Table of Contents
 
-1.  [Contributions](#org7655569)
+1.  [Contributions](#orgfe8749f)
 
 
-<a id="org7655569"></a>
+<a id="orgfe8749f"></a>
 
 # Contributions
 
@@ -23,6 +23,7 @@ The material of each directory is attributed to the following people, ordering i
 -   **`fairness`:** Timnit Gebru
 -   **`interpretability`:** Sanmi Koyejo
 -   **`learning_theory`:** Samory Kpotufe
+-   **`submodular`:** Stefanie Jegelka
 
 Alternatively you can get the biographies [here](https://sites.google.com/view/mlss-2019/speakers-and-topics).
 
